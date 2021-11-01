@@ -22,9 +22,6 @@
 		},
 		"APP_ID": {
 			"description": "App Id of your app."
-		},
-		"ALLOWED_USERS": {false}
-			"description": "User id of users seperated by a comma allowed to use the bot."
 		}
 	},
 	"buildpacks": [
